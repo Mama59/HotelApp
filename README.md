@@ -1,6 +1,9 @@
 HotelApp
 ========
 
+![Image of Build state](https://travis-ci.org/Mama59/HotelApp.svg?branch=master
+)
+
 #Information
 Source code of the Java example available at http://www.javaworld.com/article/2072203/build-ci-sdlc/an-introduction-to-maven-2.html .
 
