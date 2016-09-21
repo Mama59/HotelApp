@@ -1,5 +1,4 @@
 HotelApp
-Test Modif
 
 ========
 
